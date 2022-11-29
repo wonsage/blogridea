@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wonsage.github.io/blogridea/</id>
+    <title>wonSage&apos;s Blogridea</title>
+    <updated>2022-11-29T07:17:26.310Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wonsage.github.io/blogridea/"/>
+    <link rel="self" href="https://wonsage.github.io/blogridea/atom.xml"/>
+    <subtitle>Here is wonSage&apos;s blogridea.</subtitle>
+    <logo>https://wonsage.github.io/blogridea/images/avatar.png</logo>
+    <icon>https://wonsage.github.io/blogridea/favicon.ico</icon>
+    <rights>All rights reserved 2022, wonSage&apos;s Blogridea</rights>
+    <entry>
+        <title type="html"><![CDATA[开场白]]></title>
+        <id>https://wonsage.github.io/blogridea/post/1st-article/</id>
+        <link href="https://wonsage.github.io/blogridea/post/1st-article/">
+        </link>
+        <updated>2022-11-29T06:32:13.000Z</updated>
+        <content type="html"><![CDATA[<p>作为一个前端开发，最先接触的产品当属网站了。网站是一种由来已久的互联网服务，可以说是Web1.0时代的象征。<br>
+而直到最近，我才有了建立个人网站的冲动，为的是能够将我的一些工作笔记呈现在互联网上，而非任由它们乱糟糟地堆在我的Obsidian库里面。<br>
+Gridea似乎是我发现的第一个快捷建立博客的软件，简洁有效。初步的设置做好后，只需要写文章然后同步，客户端已经做好了整个编译的工作。但是它的不足在于文章只能在客户端内添加，而非如我预期的，把自己整理好层级的文件夹丢进来就可以了那样。<br>
+总之，这个站点还是很适合写写日记的，它已经很好地实现了把博客建起来的小愿望。</p>
+]]></content>
+    </entry>
+</feed>
